@@ -22,7 +22,7 @@ c. What product was ordered the most by customers in Germany?
 
 ***
 
-# Note: For the technical Notebook, please click this [link](./Winter\ 2021\ DS\ Challenge\ -\ Shopify\ -\ Ramil\ C.ipynb)
+# Note: For the technical Notebook, please click this [link](./Winter 2021 DS Challenge - Shopify - Ramil C.ipynb)
 
 ## Question 1
 ### a. Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.
