@@ -22,6 +22,8 @@ c. What product was ordered the most by customers in Germany?
 
 ***
 
+# Note: For the technical Notebook, please click this [link](./Winter\ 2021\ DS\ Challenge\ -\ Shopify\ -\ Ramil\ C.ipynb)
+
 ## Question 1
 ### a. Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.
 From `describe()` function, we can see cleary from where the naive AOV of $3145.13 comes. Without taking a look at the distribution of the data, The arithmetic mean can lead to wrongly represent the central tendency of the data. For example, the extreme values (or outliers) can significantly increase or decrease the mean when they are included in the calculation. As a result, this can make the mean a poor estimate for the AOV.
